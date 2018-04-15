@@ -1,0 +1,12 @@
+LINK: https://rajritvikblog.wordpress.com/2017/06/29/iris-dataset-analysis-python/
+GITHUB: https://github.com/ritvikraj14/IrisData
+
+LINK: https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
+
+LINK: https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
+
+LINK & SCRIPT: http://academic.bancey.com/plotting-multivariate-data-with-matplotlibpylab-edgar-andersons-iris-flower-data-set/
+
+https://www.maplesoft.com/support/help/Maple/view.aspx?path=examples/IrisData)
+
+http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf
