@@ -16,7 +16,11 @@ This dataset consists in four measurements in centimeters for the variables sepa
 ### Descriptive analysis
 
 - measures of central tendency (mean, median, mode)
-- plotting (histograms)
+- plotting 
+
+### Multivariable analysis
+
+- 
 
 
 
