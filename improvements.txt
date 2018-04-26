@@ -1,0 +1,5 @@
+TO IMPROVE if there is time for research:
+
+1. Analyze by categories ("Species")
+2. Calculate correlation significance. Plot results
+3. Research library seaborn(sns). Enhance visualization.
