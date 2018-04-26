@@ -13,7 +13,7 @@ This dataset consists in four measurements in centimeters for the variables sepa
 
 
 ### Bibliography
-See [resources] (https://github.com/Luis-Navarro/Project2018/blob/master/resources.txt)
+See [resources](https://github.com/Luis-Navarro/Project2018/blob/master/resources.txt)
 
 ## 2. Analysis
 
