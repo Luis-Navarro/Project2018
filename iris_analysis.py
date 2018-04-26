@@ -10,20 +10,20 @@ data = pd.read_csv("data/iris.csv")
 
 # Summary
 print (data["variety"].value_counts())
-
+data.plot(kind="scatter", x="sepal.length", y="sepal.width") # plots Sepal
+data.plot(kind="scatter", x="petal.length", y="petal.width") # plots Petal
+plt.show() # displaying plots
 
 # Descriptive Analysis 
-df = pd.DataFrame(data)
-print (df.describe())
-data.plot(kind="scatter", x="sepal.length", y="sepal.width")
-data.plot(kind="scatter", x="petal.length", y="petal.width")
+df = pd.DataFrame(data) # Creating data frame
+print (df.describe()) # Descriptive statistics. Average, Max, Min, Std deviation, etc.
 
-df.boxplot()
-df.hist()
-plt.show()
+df.boxplot() # plots boxes. Explores disperssion from average
+df.hist() # plots histograms
+plt.show() # displaying plots
 
 # Multivariable analysis
-df.corr()
-scatter_matrix(df)
-plt.show()
+print (df.corr()) #Correlation matrix
+scatter_matrix(df) # plots scatter - disperssion. Explores correlations
+plt.show() # displaying plots
 
