@@ -9,7 +9,6 @@ https://www.maplesoft.com/support/help/Maple/view.aspx?path=examples/IrisData)
 
 http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf
 https://matplotlib.org/users/pyplot_tutorial.html#controlling-line-properties
-https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
 https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python
 https://campus.datacamp.com/courses/statistical-thinking-in-python-part-1/graphical-exploratory-data-analysis?ex=5&_escaped_fragment_=%2C
 http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html
