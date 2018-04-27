@@ -18,9 +18,9 @@ This dataset consists in four measurements in centimeters for the variables sepa
 The first approach to the iris data set was, obviously, following the exercises and using the resources seen during the course. However, after some very basics displays, it soon was revealed that a more complex approach could be adopted. After researching and testing different features from the numpy library, almost all online references consulted pointed towards a combination of three basic libraries: the aforementioned numpy, the scientific library scipy (which includes matplotlib, the basic library for plotting, among other interesting features) and pandas. This latter library offers the possibility of structuring data for its analysis.
 Several days were spent researching and testing these libraries, and the first attempts to manipulate data, looping through the dataset and slicing different columns, were soon replaced for more complex, accurate and time-saving approaches.
 
-The first attempt to structure the data set was tested with the genfromtext attribute included in the numpy library. Some testing can still be found on [this first version](https://github.com/Luis-Navarro/Project2018/blob/master/iris%20analysis_pandas.py). However, the problems found when trying to include the variables' names at the top of each clomun took this script to a dead-end road. Several days were spent resarching online until this was solved. The workaround consisted in specifying the strings using 'names'within np.genfromtext function.
+The first attempt to structure the data set was tested with the genfromtext attribute included in the numpy library. Some testing can still be found on [this first version](https://github.com/Luis-Navarro/Project2018/blob/master/iris%20analysis_pandas.py). However, the problems found when trying to include the variables' names at the top of each column took this script to a dead-end road. Several days were spent resarching online until this was solved. The workaround consisted in specifying the strings using 'names'within np.genfromtext function.
 
-
+During the online research 
 
 ### Bibliography
 See [resources](https://github.com/Luis-Navarro/Project2018/blob/master/resources.txt)
