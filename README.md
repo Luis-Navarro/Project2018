@@ -44,7 +44,10 @@ And yet another approach has been taken, plotting Andrews curves to try to disti
 
 ### Multivariable analysis
 
-- 
+The correlation matrix displays the calculations of relations between variables by crossing both in a two-dimensions table. Of course, the diagonal line is 1, as belongs to the relation with a variable with itself.
+Some other trends can be observed. The higher correlation is found between peatl length and petal width, which scores very close to one, pointing to a strong and positive relation between these two variables.
 
+Finally, this correlation matrix is set for visualisation by means of the scatter matrix for every relation. For the '1' diagonal, the plot shows the frequencies.
 
+Next steps in this project should lead to the significance tests for the correlations and to regression models.
 
