@@ -12,3 +12,4 @@ http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html
 http://mcgibney.blogs.wm.edu/files/2015/12/Python-first-steps.pdf
 https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
 http://www.learn4master.com/machine-learning/visualize-iris-dataset-using-python
+https://www.wintellect.com/beginning-statistics-data-science-analyzing-data/
