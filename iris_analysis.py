@@ -1,4 +1,7 @@
-# Luis Navarro. Project 2018. April 2018 Iris Data Set analysis
+# Luis Navarro. Project 2018. 
+# April 2018 Iris Data Set analysis
+# This script was made adapting several publicly  published code from several sources online. 
+# Please check the file resources.txt for a complete relation of resoures used and code adapted.
 
 # importing libraries 
 import pandas as pd
