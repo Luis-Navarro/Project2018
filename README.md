@@ -1,7 +1,7 @@
 # Project2018
 This repository includes material for the Project.
 
-- Pyhon 3.6. 
+- Python 3.6. 
 - For running the code it is recommended to download and install [anaconda](https://anaconda.org/anaconda/python) and the following libraries: pandas, scipy, numpy
 
 * script: [iris_analysis.py](https://github.com/Luis-Navarro/Project2018/blob/master/iris_analysis.py)
